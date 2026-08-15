@@ -65,7 +65,7 @@
 ## kewl stuff i did
 
 <a href="https://tryhackme.com/p/Littleghost11" target="_blank">
-  <img src="https://img.shields.io/badge/TryHackMe-Top%201%25%20(US%20%23136AllTime)-%231bbf8f?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe Badge" />
+  <img src="https://img.shields.io/badge/TryHackMe-Top%201%25%20(US%20%23134AllTime)-%231bbf8f?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe Badge" />
 </a>
 <a href="https://tryhackme.com/p/Littleghost11" target="_blank">
   <img src="https://img.shields.io/badge/Capability%20Score-96-blueviolet?style=for-the-badge&logo=target&logoColor=white" alt="Capability Score" />
