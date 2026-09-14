@@ -75,7 +75,6 @@
 
 ## other stuff
 
-- **my website** [littleghost11.netlify.app](https://littleghost11.netlify.app)
 -  **TryHackMe** [Littleghost11](https://tryhackme.com/p/Littleghost11)
 -  **dihcord user** `dvt25`
 
