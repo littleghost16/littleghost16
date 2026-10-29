@@ -1,8 +1,5 @@
 ## Littleghost11
 
-- you'd prefer an astronaut 🦓
-- 16...
-- temporarily physically disabled ✌️✌️💔
 
 <br>
 
