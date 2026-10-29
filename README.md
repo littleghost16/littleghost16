@@ -73,7 +73,6 @@
 ## other stuff
 
 -  **TryHackMe** [Littleghost11](https://tryhackme.com/p/Littleghost11)
--  **dihcord user** `dvt25`
 
 <br>
 
